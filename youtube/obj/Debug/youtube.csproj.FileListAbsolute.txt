@@ -1,0 +1,4 @@
+C:\Users\oaf\Desktop\youtube\youtube\bin\youtube.dll
+C:\Users\oaf\Desktop\youtube\youtube\bin\youtube.pdb
+C:\Users\oaf\Desktop\youtube\youtube\obj\Debug\youtube.dll
+C:\Users\oaf\Desktop\youtube\youtube\obj\Debug\youtube.pdb
